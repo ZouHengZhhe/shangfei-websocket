@@ -91,6 +91,7 @@
     <Compile Include="Assets\Scripts\MyWebSocketClient.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Notice.txt" />
     <None Include="Assets\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
